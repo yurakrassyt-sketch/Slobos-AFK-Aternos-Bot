@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "наш телеграм канал - https://t.me/KrassMineServer",
-        "наш телеграм канал - https://t.me/KrassMineServer",
-        "наш телеграм канал - https://t.me/KrassMineServer"
+        "/bc &6&lнаш телеграм канал - https://t.me/KrassMineServer",
+        "/bc &6&lнаш телеграм канал - https://t.me/KrassMineServer",
+        "/bc &6&lнаш телеграм канал - https://t.me/KrassMineServer"
       ]
     },
     "chat-log": true,
