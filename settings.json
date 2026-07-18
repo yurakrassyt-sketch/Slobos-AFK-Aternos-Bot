@@ -1,8 +1,8 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Ml_Mellstroy",
-    "password": "_18641250_",
+    "username": "JJ_KOK",
+    "password": "15644644",
     "type": "online"
   },
   "server": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "_18641250_"
+      "password": "15644644"
     },
     "anti-afk": {
       "enabled": true,
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "наш телеграм канал - https://t.me/KrassMineServer",
+        "наш телеграм канал - https://t.me/KrassMineServer",
+        "наш телеграм канал - https://t.me/KrassMineServer"
       ]
     },
     "chat-log": true,
