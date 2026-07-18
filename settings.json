@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "Ml_Mellstroy",
     "password": "_18641250_",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "KrassMine.aternos.me",
     "port": 39069,
-    "version": "",
+    "version": "1.16.5",
     "try-creative": false
   },
   "position": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "_18641250_"
     },
     "anti-afk": {
       "enabled": true,
